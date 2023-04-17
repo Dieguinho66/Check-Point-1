@@ -18,6 +18,6 @@ Não esqueça de configurar o seu git com --config no terminal do seu VS Code pa
 
 ADICIONAL:
 
-- Se quiser abrir uma Pull Request para o meu repositório original o tutorial está aqui: 
+- Se quiser abrir uma Pull Request para o meu repositório original o tutorial está aqui:
 
 https://danvitoriano.medium.com/contribuindo-para-projetos-open-source-5453686f8d8d
